@@ -21,7 +21,7 @@ AutoRclone is a modern, interactive CLI tool that automates Google Drive backups
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/reck98/autorclone.git](https://github.com/YourUsername/autorclone.git)
+   git clone https://github.com/reck98/autorclone.git
    cd AutoRclone
 
 
